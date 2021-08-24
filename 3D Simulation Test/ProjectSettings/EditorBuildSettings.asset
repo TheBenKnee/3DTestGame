@@ -9,12 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: f6b7da1bf365f7f4eae763ac3906a567
   - enabled: 1
-    path: Assets/Scenes/SpaceTheme.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
-    path: Assets/Scenes/NormalTheme.unity
-    guid: 1c4021a34194b404585e1c8b600965b1
-  - enabled: 1
     path: Assets/Scenes/PvP.unity
     guid: b233948c5717ce24689cd69c912ce24a
+  - enabled: 1
+    path: Assets/Scenes/BasicScene.unity
+    guid: a4da953d2ee9af34ab6d2a8f134d50f7
+  - enabled: 1
+    path: Assets/Scenes/SpaceScene.unity
+    guid: 26a2197f2a08b93439437e44af97da94
   m_configObjects: {}
