@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SpaceScene.unity
     guid: 26a2197f2a08b93439437e44af97da94
+  - enabled: 1
+    path: Assets/Scenes/Unit Testing.unity
+    guid: 0fe1aeb89df866d4d902a4f2c2a48e27
   m_configObjects: {}
